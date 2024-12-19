@@ -1,0 +1,7 @@
+torch
+pygame
+gtts
+wikipedia-api
+pyautogui
+speechrecognition
+sklearn
